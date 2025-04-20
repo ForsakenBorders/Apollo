@@ -1,13 +1,13 @@
 name = "What Are They Up To (Watut)"
-filename = "watut-fabric-1.21.0-1.2.6.jar"
+filename = "watut-fabric-1.21.0-1.2.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AtB5mHky/versions/Fuyyk1t1/watut-fabric-1.21.0-1.2.6.jar"
+url = "https://cdn.modrinth.com/data/AtB5mHky/versions/iHAQTK0N/watut-fabric-1.21.0-1.2.7.jar"
 hash-format = "sha512"
-hash = "f48e42bdedae4ac5123b3fa61d1c563b1df1a5ce11e7a8575e22b90e9e5ab7350624281f90e85f06430916ce1c99cffc345803594bfaaa5d55d48e4d7ed1f3ee"
+hash = "5a3433f4ecd7826ec80320b898bb57b4b89a95e17fea97e3ff78f9e00afd0fd0213eaad3ee00952902a47258c5e5453ab3b2763358ee7473ca1fe36b42d13000"
 
 [update]
 [update.modrinth]
 mod-id = "AtB5mHky"
-version = "Fuyyk1t1"
+version = "iHAQTK0N"

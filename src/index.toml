@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9d1cbb1985de93e2ee506a3aa7a36b4489a35a735ea2c4e090bbf58b7cc29b09"
+hash = "3e0109bdcb98c740367fd5a2f455bea1d7663389266e3c34a237c5997a8c86b8"
 metafile = true
 
 [[files]]
@@ -132,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "2bac6347331408aa47194a62322a324ee3869938b24240ac187dde9dafbd1bf6"
+hash = "b1e0b4b93715d3b1f3d7f41653b914a3479e61657f01a7e0735510a2b196883e"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "096a03591db337155ea3ed28b35addff2dd62d453807dd070aefb098499be42c"
+hash = "f0f233758f30ccc090ec56b86c690de3472b74f0d50f944fe983c07debcd8538"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "346c69a01085479b5301c1968cce7bb12cbb8f2ddc73a91bef8dcb439d53ef88"
+hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "993f416c1bfa39d149c045d94eab69b4c6c8d171c4cbc4df4cff572bae298358"
+hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "de69555290a44328b84aa51aa404de093588ae36ba656a74729453fe66323f2b"
+hash = "e738806b1099f2b4b950ec57816582f3b7afd7a0074a250e3f120aa78350bc7e"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a0882efec4154408daa410077e66293a8da4a8ffaf1610fdd4209eae5bc4d729"
+hash = "3f74bba2fa702257f073f185246d70109e7aa6a464084382f75ec91a4c9b2ac1"
 metafile = true
 
 [[files]]
@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/visible-traders.pw.toml"
-hash = "5d3eb4c33ee3b5b9d77d775e18aa40efa11440567f0aa9aae9cf830b36803469"
+hash = "07d7febe84e1bb86805307d47db3f035f5c63a16e6598c56d68b013d61cf0dc3"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "898bfffdfcc96c8763c5a6db037f98b248bfd90f5d8aa7b8637ff820a337df8a"
+hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "0a64c09b8b5385c557e2a8ae00e7fccb9d9900207940db9dd616973d2841e97e"
+hash = "f8cb2fa73d3812bcfe1d1cc2d6663b87f92139060aa9ab19190621e96d52ffa2"
 metafile = true
 
 [[files]]
