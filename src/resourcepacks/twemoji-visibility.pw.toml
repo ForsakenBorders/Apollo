@@ -1,13 +1,13 @@
 name = "Twemoji Visibility"
-filename = "Twemoji Visibility 1.7.zip"
+filename = "Twemoji Visibility 1.8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WdYcUVh8/versions/3GXWuCIm/Twemoji%20Visibility%201.7.zip"
+url = "https://cdn.modrinth.com/data/WdYcUVh8/versions/M7BeQwLg/Twemoji%20Visibility%201.8.zip"
 hash-format = "sha512"
-hash = "7e7aece234020294f19e5c714508ec8d9f20a9945d1a65285ef47536a4ad997e93e272010282f26f63eae59dedc019a407bffe836a106da0e2e346cf56eb5a56"
+hash = "30fa9545ac0ec65e5ec67aa8217be1803b7f4a078dea40be78ef9effa92b08d51ea6639049b302f2526f4112ffa1b76f9a6eb6743674ca68e81431f14a34f8a0"
 
 [update]
 [update.modrinth]
 mod-id = "WdYcUVh8"
-version = "3GXWuCIm"
+version = "M7BeQwLg"
