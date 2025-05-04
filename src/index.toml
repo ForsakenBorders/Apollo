@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "24828835695c3e91f506dab3bdd47e54cb31412187ab0670bbb09cfeb710994c"
+hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "1190f29d62ac835b52a7766701d06120b8e6b1c8a40c76858195cf938cb1f858"
+hash = "35c9286e4ba744cca20c3f8c5c069880e9f6bf7364c6a3bdccf5a83ea7213e9e"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "73726cdb441d74004ff7b06640781a5a3e87020b3260c2cd12f4514910455a51"
+hash = "cf06c923fd862cda2209155bf0948dff5b4ad8dda98a415e8eb0b65aa97b4510"
 metafile = true
 
 [[files]]
@@ -787,10 +787,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "e18e210dab04e3febeae9072b7bdd9cced16e559e16611ddf074658602f6fc34"
+hash = "bb7dab09495d71a2e2dc2210cc683e164f8da589e19039d7eca3c3e195056014"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
