@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "a9207a1cd952ec1b54be1cc7f3f93a3207bd4579596db5e8b7a763802c4c7d9e"
+hash = "af63e34be6e81cf9a7cb9a6de14a009fc198d0406dbcf7b01c6b654d1a2bec35"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "188a1bd07a785b8fdfa27f15d899943dda1ed73cfc786e1c3d839cb1974edbb0"
+hash = "f94c635e7b95a925dc1e335c75b620f9de7ee8da40eaba45b6e9a0c34bf85899"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e82c4d4a21b46e5e0c71750f4843a9816f79c0fc1ecda31df8f40c43daa30d12"
+hash = "1584444b7f16488634393b73c6cd7ab5247338beb9d5eda623b32db64adc3871"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "93f7c611597f7291932163a18cbe7787cec376e15d655632b4bdf289dbd937af"
+hash = "2fed8d4f5a2f794b9b2ce0af6151f1b6aba91fb32ac53e642c098de57c21683e"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "9b17a2ff78aa268094d2f586a9bd92273836106c9bd3029ed140e7d2914cb1ad"
+hash = "b204d0034d2758f7ab59d234080481484e6116f6d538dee9fb32804f04f8407f"
 metafile = true
 
 [[files]]
