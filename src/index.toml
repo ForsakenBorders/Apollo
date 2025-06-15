@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "362a6d11d83ccb46d1dacf8131bf341cbdb13e2d1b0976c40603a52c506ab778"
+hash = "89a1c822173c87cb66d54010fbc2d36691dfbb7f6d18f8c1478a89c4d0c5fe2e"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "2fed8d4f5a2f794b9b2ce0af6151f1b6aba91fb32ac53e642c098de57c21683e"
+hash = "9c2f16ea4925e7e8ed263b1f0fc4b5bd159fa72ea8ca246d026bff60e2607c9f"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "b204d0034d2758f7ab59d234080481484e6116f6d538dee9fb32804f04f8407f"
+hash = "e22db1ac08dd2a69f376bfe1e7bdb4363cbe8fc74df7fa6a9ba883cd375aa1f4"
 metafile = true
 
 [[files]]
