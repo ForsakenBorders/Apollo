@@ -1,13 +1,13 @@
 name = "Simple Discord RPC"
-filename = "SimpleRPC-Universal-4.0.2.jar"
+filename = "SimpleRPC-Universal-4.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/r7UZSbfj/SimpleRPC-Universal-4.0.2.jar"
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/c8FRodSL/SimpleRPC-Universal-4.0.3.jar"
 hash-format = "sha512"
-hash = "405df99e403ae1c6976b7944e05d70e77da8371e2df8b450ab7490ac849891ec98458c72f301bc22f2b6983447fc545da9fcad2b91425d98f24b30a9d7532e04"
+hash = "e66b865eddb4a67b0aeef3ffe401157e3dcd2cfff38b962728b3c3c42ab40272adb3d0005b0e1b2c5351b3d8c89cb1bb23f1b82226a13a5b2d90585932589c1b"
 
 [update]
 [update.modrinth]
 mod-id = "ObXSoyrn"
-version = "r7UZSbfj"
+version = "c8FRodSL"
