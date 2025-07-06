@@ -1,13 +1,13 @@
 name = "Allow Portal GUIs"
-filename = "allow-portal-guis-1.1.5.jar"
+filename = "allow-portal-guis-1.1.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UVHxud51/versions/9nXpzixz/allow-portal-guis-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/UVHxud51/versions/G90lXR1b/allow-portal-guis-1.1.6.jar"
 hash-format = "sha512"
-hash = "e6e74ad9a7d035d66f039333227f79c7fb65b46ea7ef11e87c788ce8a08bc3d4eca7e8c8ea29e3183974c8f475c9c83acad7bde1df9d3f8fb29ff1700c7c5965"
+hash = "70465fc66323160d26ecb27d39339818fa7259f5b06b1b06e6d88652b1033c34c1e0a36550482431378ad9eec2d3afb3943d466302861f5464bdf6c6236694f7"
 
 [update]
 [update.modrinth]
 mod-id = "UVHxud51"
-version = "9nXpzixz"
+version = "G90lXR1b"
