@@ -42,7 +42,7 @@ hash = "b2750704fae6874bc4c354dbbe8f0c82c8ec28fd8125937d09d545528fd236c5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "211f60a915e5c468055a859be71c465c32c7d7001427f43507d02af8ce27830e"
+hash = "06f7b82d3f9784e5349639a6d388aa13a0624c4797f142686a645c26ccf3433e"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6adf694696d6e82f3a08ae295a54697b4f6c14c02ebfd3978eb9017ffbee50af"
+hash = "0d07bccf37b2de76dbd38e10cff8bd4b042a348c28163dba1e313a7815fa7eb9"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f94c635e7b95a925dc1e335c75b620f9de7ee8da40eaba45b6e9a0c34bf85899"
+hash = "a4ef70162a9a5cc5dc5ea27f3d712faaf1900ef19329ca6a795b68874d0033af"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "73f53293eb435e2184a8139a3af53afbf6c327f67d6be51c9cb28f1c89b6e478"
+hash = "da3c275edf123317fcec057cb04a67a0ddb7cf90dc4b95f81a1f4334fe5cb007"
 metafile = true
 
 [[files]]
@@ -602,12 +602,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "adc68f0fa8e49dbfe6ae80762590bdb001d120e1b6a256a50c59f2f21a3dddcd"
+hash = "1682add4f33743fe9c60cbae1342e02303d475b652948eeee9071c2be7119f08"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8102b620cf27b149a6149d05a59f5194085c37041ba0ac996d2b9f1b4a91a816"
+hash = "0f67e495b54b0f5534de9d7991b6d515469eeaa823a63860ab0cc451bf5b6e34"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "2d4ef17586d705f228a4b4ba9675dbff3c8d8b2e596a26656d8cf59f10d92042"
+hash = "1a0edd837db2a796126c170a8576db5840861f1854d6f6c4c20002906afc9b44"
 metafile = true
 
 [[files]]
