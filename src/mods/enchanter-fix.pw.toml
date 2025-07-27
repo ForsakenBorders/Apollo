@@ -1,13 +1,13 @@
 name = "Enchanter Fix"
-filename = "enchanter_fix-1.5+mc1.20-1.21.7.jar"
+filename = "enchanter_fix-1.6+mc1.20-1.21.8.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/vNE5j3Te/versions/ttLLKsz9/enchanter_fix-1.5%2Bmc1.20-1.21.7.jar"
+url = "https://cdn.modrinth.com/data/vNE5j3Te/versions/g8EQfuum/enchanter_fix-1.6%2Bmc1.20-1.21.8.jar"
 hash-format = "sha512"
-hash = "180c7a339a4b52f195c69e67e6b61a32028b8ff4767fdecc802258fa6e58e0e1c0ee45051c8b4c17686dae5e59c586d6396dca4cf6ed94eaf73d6ca326fce8c9"
+hash = "5ce9d04078d5cc2d52df5441efec83624d3ab7509524bed0a8e218d40edd63e77553a6cd20ad7e8b1f07a40b4beed85db87d9d413a16a083efd7111a09acdd19"
 
 [update]
 [update.modrinth]
 mod-id = "vNE5j3Te"
-version = "ttLLKsz9"
+version = "g8EQfuum"
