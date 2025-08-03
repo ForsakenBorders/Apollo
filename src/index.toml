@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "0f8e9a5061ca2b75a1e567be7f44f3111a7f13b0e19f92e3aff11a68ef492b4a"
+hash = "958104b9a69f681af0f87d88d50b029a546afe70727b5d4f400ff33cc4687cd3"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
+hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "43043e758af816bb544edce972739425a92d561cca144db31778c662e13bb65a"
+hash = "ba7d7147effa59c358b928e094fba857952ca301b42275f2b11ad609dd167d1e"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a4ef70162a9a5cc5dc5ea27f3d712faaf1900ef19329ca6a795b68874d0033af"
+hash = "99ef5661ab4c82b78eddcda313e1b43843d5d708585712c931e1d0dbb49c9870"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
+hash = "05fd60a86961b215f70ff466216926550292ae6ed8bba7baa7830d935d9e4096"
 metafile = true
 
 [[files]]
