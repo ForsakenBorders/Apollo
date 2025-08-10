@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "c91b42054112616b32ecc4e812ca84a2acf939d4f91814a28a8385cdc9427e6d"
+hash = "eb4bb75bcfaab30be58769f473ce369c20b694394a6ead412433b0c27f41d091"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ce5ecc38c8f634e1d5d4daa6b0c8e338a8349bec6d68d8e11b786f5cb5c557f0"
+hash = "699010afc3867305441c3d5b3bcdf491a7aa3614ad199b0589f368689a68859e"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "958104b9a69f681af0f87d88d50b029a546afe70727b5d4f400ff33cc4687cd3"
+hash = "ca64eeb298a047339895d42ad8241293cfbfa901e82a520124a4602180cdda5e"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
+hash = "be29598337af357cd80b5a60d4eb1e06ff50008fe8d9ca0b52d1279be96a785a"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
+hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3b0341c1402b0319857591a4adc876fb98360b30995e01b280d6f4cd35d59325"
+hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
+hash = "9bb377938c2fcfad53c925fd0d8c670496bf47239e031f604813dc3a5cf5de14"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a5f08589896b9d994fee70bc92f9e67df9121ab533fdb4e0c2b76e7aa87a001c"
+hash = "8c79da2a9d2f8f4b628afada45a53ab709fa85e821c5c7071ae768ab57685d59"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "89a1c822173c87cb66d54010fbc2d36691dfbb7f6d18f8c1478a89c4d0c5fe2e"
+hash = "b9bb99e48b901f1d5231a8c05d441bdaf94e2a6aefd062f996ee7ac0662d9586"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "08238907217b3cda423f1e85243cbecd4d2b4000d237876e18c7641f45f7e436"
+hash = "cb22a7cd8a0b2a07de325cdd73194ee1f6a77d3499c2588948415b6f8597dcda"
 metafile = true
 
 [[files]]
