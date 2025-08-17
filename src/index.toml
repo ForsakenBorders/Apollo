@@ -42,7 +42,7 @@ hash = "b2750704fae6874bc4c354dbbe8f0c82c8ec28fd8125937d09d545528fd236c5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a8a66453b1723d1daf27b49a9902a32a1fea0335dd49862be2be70777c5ecfc3"
+hash = "3c4f1558a94121e7fe573ad4ad05c2fe44ccf78cbb89bb766a74985188207cdc"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9bb377938c2fcfad53c925fd0d8c670496bf47239e031f604813dc3a5cf5de14"
+hash = "ea6b2156e703ca65e0cf4a7119e2c4a9ea81018860859dd949cd2832dfa3bf07"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "c423de38b5b7fc70d98f4520d677840fed1d73d91cac0727d10b8e9f62c0c4ca"
+hash = "c95de2fa145b9a3f173fde463515b6b2d38e0ed4f5c853b1a68c4f2ca3bad208"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "cb22a7cd8a0b2a07de325cdd73194ee1f6a77d3499c2588948415b6f8597dcda"
+hash = "89f423b615070cb8a8437fb720a1a1005bfaade6e98a2fcf2a1492d26a6790b3"
 metafile = true
 
 [[files]]
