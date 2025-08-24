@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "cf6f3f9a25620d9e6d3531ce9306f7090a707adb09ac67fe7f0fde3b8fa747b8"
+hash = "f10b8652721b0b028418f0910040c1fd859019e58ba27f54d009e3c35026c20f"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "277b78d55d6a2337570ddc05014f41fbdd453ae6fdce0d0b63a58e0d1529765c"
+hash = "19557e96e9fa5965af9dad4d84038e740c57513fcf65e016274e590a9cb2faa8"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "161123eca0678a132b41010d1c1bbefae031c54f331f4681d09466c93004431a"
+hash = "3aa1ea0bc9be0c13cf05b17ded80b3f099ff29371a6550da1df2573b14ea434e"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "ba7d7147effa59c358b928e094fba857952ca301b42275f2b11ad609dd167d1e"
+hash = "b54ab33fba0110b05c69b7d1d61833ae603f79b453d795533abe7f50b940ca1d"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "fb64786c11ef1f6d2a6ca19aa9b20ebd5515f00abc48b64b9050b2fcdb1b1cdb"
+hash = "3f3cd8f19e6c720d34646c60a2be057a0773f67b964f176476a1cae64f822bfe"
 metafile = true
 
 [[files]]
