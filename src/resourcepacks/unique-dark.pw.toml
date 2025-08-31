@@ -3,11 +3,11 @@ filename = "Unique Dark - Lite -1.20.2-1.21.x.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/ppiWH13C/Unique%20Dark%20-%20Lite%20-1.20.2-1.21.x.zip"
+url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/81aXFi8f/Unique%20Dark%20-%20Lite%20-1.20.2-1.21.x.zip"
 hash-format = "sha512"
-hash = "112701fb49f1710b7f372fa9f204a9795866f031e6c061a1e072918935902096abf82060ab0ad37635e437984ef66c7a86170f96c74072b2306fbcdfb7084475"
+hash = "4c23e75371da7373ee46be802be6cbad1f99c3c740c05335cde8f5174b26bba7b1d159f70078ad793e419592dcd48e3cd2870d2e6ed9ec3498c5b9295676099e"
 
 [update]
 [update.modrinth]
 mod-id = "BaY1UdGV"
-version = "ppiWH13C"
+version = "81aXFi8f"

@@ -242,12 +242,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "595d4e5dbee4c4fad7a84c809491ddfa29a9607a8982d04dd19f99a3a70f1cf8"
+hash = "5d52bd89d8d865461ce5ba7c615905e7a0b4968db8f33bb87a656e1890e8c585"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "525d444d3184718ef1aa766f36ece7c94c7692acd0d93ca2aeed2e041089335b"
+hash = "9b81f1d004a4619b3f2f84f24d0ec8674b6169b80ec3bfdb6fb9de54e7cacf24"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
+hash = "da9fbdce468fbfa6bd5a7ceb15465780e3e8fda9535d16f40a81343621e627a7"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "89f423b615070cb8a8437fb720a1a1005bfaade6e98a2fcf2a1492d26a6790b3"
+hash = "ff66709472a2c93ea7fdb073775a480a369ae583782fa40ed7b170fb3386c3e5"
 metafile = true
 
 [[files]]
