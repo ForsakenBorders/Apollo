@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "f10b8652721b0b028418f0910040c1fd859019e58ba27f54d009e3c35026c20f"
+hash = "b762fd220df381c582122529c9f36c5a332f733538366f1333d03f350c8f1cf8"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "9b81f1d004a4619b3f2f84f24d0ec8674b6169b80ec3bfdb6fb9de54e7cacf24"
+hash = "ff1dca00cfe5599989886deb914866de5f332f0e81f62df2c258f0eb0b7c6760"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "3f3cd8f19e6c720d34646c60a2be057a0773f67b964f176476a1cae64f822bfe"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8c79da2a9d2f8f4b628afada45a53ab709fa85e821c5c7071ae768ab57685d59"
+hash = "cd120571d9b92a15f5e5d1732bbe8bff0a5cc9791f3350be70d8a469476ac157"
 metafile = true
 
 [[files]]
