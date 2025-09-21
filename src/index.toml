@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "be29598337af357cd80b5a60d4eb1e06ff50008fe8d9ca0b52d1279be96a785a"
+hash = "b657f7b943275097afafe1ad47001f38a88415568e446daecbc6fc349c37351d"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/esf-entity-sound-features.pw.toml"
-hash = "83b9fa8c541ea8ae45858586fda3c693ee1d8c2520933e33789e80780b5206d4"
+hash = "138da76eca280cc531718d7483985706f374aba9d5e5bdb0f3abd0228b55c51a"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "99ef5661ab4c82b78eddcda313e1b43843d5d708585712c931e1d0dbb49c9870"
+hash = "2a61377d5fd1bf73173daabc547975c486e75616c6979916d1a0451097d09721"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "158906efa43038115d87385d1f8b9329d9c5688d43bac0ccd95de7ae8f0a332c"
+hash = "47951ad1b4804f85eea9196e5f2bb52f449b04e8fceb89db612620456131754e"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
+hash = "b9ab854220783f5fecee464b77ec2ad180f9294735579b12ceceb2506cd4e15b"
 metafile = true
 
 [[files]]
