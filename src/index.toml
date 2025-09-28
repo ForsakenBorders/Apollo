@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "3aa1ea0bc9be0c13cf05b17ded80b3f099ff29371a6550da1df2573b14ea434e"
+hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "b54ab33fba0110b05c69b7d1d61833ae603f79b453d795533abe7f50b940ca1d"
+hash = "02c1da173ffcc2e1acdcfb1042fcd61760903f7c29b13720aecc2a29fef133d9"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2a61377d5fd1bf73173daabc547975c486e75616c6979916d1a0451097d09721"
+hash = "fb33abd71df7a58e00657fe944e1f91376e4371848341d43934e122fcffea6ee"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "a9fbf104220ee025e339c1975856807e8e4ecd2e2cc5b3ce2d7dff7a463b523e"
+hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "01963f8c6ca19d5bcbfd53305492398b20be2df251fd60c2d3cbfd539c669357"
+hash = "01422bf391616b6ce1762dc99e605050267413a8adc7bf26272300027f4ca67f"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "b9ab854220783f5fecee464b77ec2ad180f9294735579b12ceceb2506cd4e15b"
+hash = "f5d79572111f977729f99c58143e2296383cb16634f5b9805382b832e8e86300"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b6271eb4c38c4d88b88eb5b2dc507e587d5bc5c060f6d8157acd391662b683a7"
+hash = "345fc6586d50c4377ac413117d8ccdf30d2ed6169545225c28f19a26a51aa653"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "05fd60a86961b215f70ff466216926550292ae6ed8bba7baa7830d935d9e4096"
+hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
 metafile = true
 
 [[files]]

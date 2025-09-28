@@ -1,13 +1,13 @@
 name = "Snow Under Trees (Fabric)"
-filename = "SnowUnderTrees-2.7.1+1.21.1.jar"
+filename = "SnowUnderTrees-2.7.2+1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/XVnUIUAQ/versions/2XRfQcUl/SnowUnderTrees-2.7.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/XVnUIUAQ/versions/3CbG904c/SnowUnderTrees-2.7.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "0c5ac59347054b2907c44cec93b53ea202d2c376510f77b7d26b4422c3480afb704bc6460a5900a5fb4a75a809c2a1a0e1c186046d7b378875cc92a417c35af7"
+hash = "d673fe2380689f0885d5d34f14bf62668e405dbc4ad80248fef6dd760b122a6388bb3a3edfb3230464f6093b61330aaa347b8d3e69aefa7b36f9267d8a2099e1"
 
 [update]
 [update.modrinth]
 mod-id = "XVnUIUAQ"
-version = "2XRfQcUl"
+version = "3CbG904c"
